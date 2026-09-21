@@ -20,7 +20,7 @@
 <!-- Action Buttons & Badges -->
 <p align="center">
   <a href="https://portfilo-akuif.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/akif-karimov-a34270383/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/akifkerimov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:akifkarimovv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ak-uif"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -178,39 +178,8 @@ Motivated Information Technology student with hands-on experience in **Full-Stac
 <img src="https://github-readme-stats.vercel.app/api?username=ak-uif&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&icon_color=9370DB" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-uif&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" width="48%" alt="Top Languages" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-uif&theme=synthwave&hide_border=true&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2" width="97%" alt="GitHub Streak" />
-
 </div>
 
----
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ak-uif&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak-uif&theme=react-dark&bg_color=0D1117&color=8A2BE2&line=9370DB&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
 ---
 
 ## 🎯 Current Focus
