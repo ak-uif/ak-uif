@@ -186,6 +186,8 @@ Motivated Information Technology student with hands-on experience in **Full-Stac
 
 ---
 
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -205,9 +207,10 @@ Motivated Information Technology student with hands-on experience in **Full-Stac
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ak-uif/ak-uif/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
+---
 ---
 
 ## 🎯 Current Focus
